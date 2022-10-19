@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yRVjcUn8G2XR+Dx3RQuCgg1pFtqf8A53IJXj/BO2P4yuN0kQO7D2y6u3LwdkY5PGJ5xUp8Pw2HAPLMhN5GQag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\Projetos\\.NET\\.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\fluentcolorconsole\\2.0.1\\fluentcolorconsole.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

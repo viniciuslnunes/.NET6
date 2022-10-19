@@ -1,0 +1,17 @@
+C:\Users\vinic\Projetos\.NET\bin\Debug\net6.0\.NET.exe
+C:\Users\vinic\Projetos\.NET\bin\Debug\net6.0\.NET.deps.json
+C:\Users\vinic\Projetos\.NET\bin\Debug\net6.0\.NET.runtimeconfig.json
+C:\Users\vinic\Projetos\.NET\bin\Debug\net6.0\.NET.dll
+C:\Users\vinic\Projetos\.NET\bin\Debug\net6.0\.NET.pdb
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.csproj.AssemblyReference.cache
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.AssemblyInfoInputs.cache
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.AssemblyInfo.cs
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.dll
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\refint\.NET.dll
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.pdb
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.genruntimeconfig.cache
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\ref\.NET.dll
+C:\Users\vinic\Projetos\.NET\bin\Debug\net6.0\FluentColorConsole.dll
+C:\Users\vinic\Projetos\.NET\obj\Debug\net6.0\.NET.csproj.CopyComplete
